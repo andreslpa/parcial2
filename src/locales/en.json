@@ -1,8 +1,9 @@
 {
-    "title": "T.V Series",
+    "title": "T.V. Series",
     "nameHeader": "Name",
     "channelHeader": "Channel",
     "seasonsHeader": "Seasons",
     "episodesHeader": "Episodes",
-    "releaseDateHeader": "Release Date" 
+    "releaseDateHeader": "Release Date",
+    "imageLoadingError": "Error loading the image"
 }

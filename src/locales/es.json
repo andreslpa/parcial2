@@ -1,7 +1,9 @@
 {
+    "title": "Series de Televisión",
     "nameHeader": "Nombre",
     "channelHeader": "Canal",
     "seasonsHeader": "Temporadas",
     "episodesHeader": "Episodios",
-    "releaseDateHeader": "Fecha de Lanzamiento" 
+    "releaseDateHeader": "Fecha de Lanzamiento",
+    "imageLoadingError": "Error cargando la imagen"
 }
