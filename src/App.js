@@ -24,6 +24,7 @@ function App() {
     if(!navigator.onLine){
       console.log("From Storage",JSON.parse(localStorage.getItem("series")));
       setSeries(JSON.parse(localStorage.getItem("series") || "[]"));
+      setSelectedSerie(series[0]);
     } 
 
     fetch(seriesURL)
